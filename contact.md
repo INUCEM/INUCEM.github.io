@@ -4,6 +4,7 @@ title: Contact
 comment: true
 ---
 
-## 김민국
-010-4706-6178
-abcd@naver.com
+## 건설경영및관리연구실 
+032-835-4657</br>
+dkskak34@naver.com
+
