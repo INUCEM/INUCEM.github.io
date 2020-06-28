@@ -10,7 +10,7 @@ featured: true
 2020년 대학생 포스터 발표 학부연구생 김민국 대상 수상!!
 제목 " CSLP~"
 
-<img src="{{site.baseurl}}/assets/images/project/2018/chatbot/1.jpg">
+<img src="{{site.baseurl}}/assets/images/1.jpg">
 
 
 <hr>
