@@ -1,8 +1,4 @@
 ---
-layout: page
-title: About Us
-comments: true
---
 
 <img src="{{site.baseurl}}/assets/images/people/chansiklee.jpg"> 
 
