@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  " [게시글예제]티라노사우르스 " 
+title:  " 최근 연구 수주 " 
 categories: [ Project ] 
 image: assets/images/project/2018/bixby/02.jpg
 author: INUCEM
-company: 회사이름
+company: 국토교통부
 featured: true
 ---
-프로젝트를 수주해버렸당
+프로젝트를 수주
 
 <img src="{{site.baseurl}}assets/images/project/2018/bixby/01.jpg">
 <img src="{{site.baseurl}}assets/images/project/2018/bixby/02.jpg">
 
-오호...
+
 
 <hr>
-참가자: 공룡<br>
-기간: 2018.03 - 2018.12 <br>
+참가자: 김태완 연구팀 <br>
+기간: 2020.04 - 2024.12 <br>
 주최: 한국 티라노사우르스 복지회사
