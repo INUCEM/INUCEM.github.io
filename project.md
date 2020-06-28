@@ -1,9 +1,8 @@
 ---
-layout: post
-title: "연구 과제"
-subtitle: ""
-date: 2020-04-08 18:45:13 -0400
-background: '/img/posts/06.jpg'
+layout: page
+title: Project
+comment: true
+
 ---
 
 
