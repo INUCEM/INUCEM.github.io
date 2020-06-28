@@ -2,12 +2,7 @@
 layout: page
 title: About Us
 comments: true
----
-### abcd에 관한 연구
-
-건설 관리 및 경영 연구실에서는 크게 두 가지의 연구를 수행합니다. 첫째, 발생하는 다양한 문제를 정의하고 그에 대한 새로운 방향성을 제시하여 미래 환경을 예측합니다. 둘째, 크고 작은 문제들을 고찰하고, 이를 해결하기 위한 솔루션을 제안합니다. 연구를 통해 우리는 'ABC'를 만들기 위한 'CDEF'을 만들어가고 있습니다.
-
-<hr>
+--
 
 <img src="{{site.baseurl}}/assets/images/people/chansiklee.jpg"> 
 
