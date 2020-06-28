@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "보유 기자재"
-subtitle: ""
-date: 2020-06-11 14:14:00 -0400
-background: '/img/posts/06.jpg'
+layout: page
+title: projects
+comment: true
 ---
 
 
