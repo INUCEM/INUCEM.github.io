@@ -12,7 +12,6 @@ featured: true
 
 <img src="{{site.baseurl}}/assets/images/1.jpg">
 
-
 <hr>
 참가자: 김민국<br>
 기간: 2020.12<br>
