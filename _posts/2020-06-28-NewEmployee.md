@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 신규 연구원
-author: Kyungwoon
+author: Kyngwoon
 categories: 
 image: assets/images/news/soomin/01/01.jpg
 ---
