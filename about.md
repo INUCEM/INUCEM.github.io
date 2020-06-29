@@ -12,7 +12,7 @@
 
 <hr>
                                                                     
-<img src="{{site.baseurl}}/assets/images/people/chungwankoo.gif"> 
+<p align="center"><img src="{{site.baseurl}}/assets/images/people/chungwankoo.gif"></p>
 
 구충완 교수는 공간에서 재실자 행동 · 생체반응, 실내환경 · 에너지효율에 대한 진단 · 예측을 위한 인텔리전트 시설경영(intelligent Facility Management) 전략에 대한 연구를 수행하고 있습니다. 이를 위하여 사물인터넷 센서 네트워크, 실시간 빅데이터 분석, 인공지능 기반 예측, 디지털 트윈 기술, 몰입형 가상/혼합현실, 생체반응(신경 · 생리심리) 등 다양한 스마트 건축기술과 최신 컴퓨팅 기술을 활용하며 노하우를 축적하고 있습니다.
                     
